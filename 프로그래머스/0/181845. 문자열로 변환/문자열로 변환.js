@@ -1,4 +1,4 @@
 function solution(n) {
-    str = n.toString();
+    let str = n.toString();
     return str;
 }
